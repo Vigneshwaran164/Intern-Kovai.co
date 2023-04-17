@@ -43,7 +43,7 @@ namespace encapsulation
 namespace encapsulation{
  public class Bank 
     {
-       /* static void Main(string[] args)
+       static void Main(string[] args)
         {
             //creating object for the customer class
 
@@ -53,7 +53,7 @@ namespace encapsulation{
             customer.CustomerAccountNumber = "3462 7545 2345" ;
             customer.DisplayDetailsOfCustomer();
         }
-        */
+        
 
     }
 }
