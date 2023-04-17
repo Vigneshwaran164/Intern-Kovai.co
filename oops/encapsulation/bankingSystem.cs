@@ -4,12 +4,15 @@ using System;
 namespace encapsulation 
 {
 
-
+    //class for Customer having their bank account
     public class Customer
     {
+        //defining required fields for the customer 
         private string? customerFirstName ;
         private string? customerLastName ; 
         private string? customerAccountNumber ;
+
+        //property having getters and setters method for the fields
 
         public string CustomerFirstName
         {
@@ -37,11 +40,12 @@ namespace encapsulation
        
 
     }
-    namespace encapsulation{
+namespace encapsulation{
  public class Bank 
     {
-        static void Main(string[] args)
+       /* static void Main(string[] args)
         {
+            //creating object for the customer class
 
             Customer customer = new Customer();
             customer.CustomerFirstName = "vigneshwaran";
@@ -49,6 +53,7 @@ namespace encapsulation
             customer.CustomerAccountNumber = "3462 7545 2345" ;
             customer.DisplayDetailsOfCustomer();
         }
+        */
 
     }
 }
