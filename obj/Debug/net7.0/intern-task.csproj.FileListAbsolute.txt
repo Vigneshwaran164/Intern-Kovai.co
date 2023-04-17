@@ -1,0 +1,15 @@
+C:\Users\Vigne\Documents\intern-task\obj\Debug\net7.0\intern-task.csproj.AssemblyReference.cache
+C:\Users\Vigne\Documents\intern-task\obj\Debug\net7.0\intern-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vigne\Documents\intern-task\obj\Debug\net7.0\intern-task.AssemblyInfoInputs.cache
+C:\Users\Vigne\Documents\intern-task\obj\Debug\net7.0\intern-task.AssemblyInfo.cs
+C:\Users\Vigne\Documents\intern-task\obj\Debug\net7.0\intern-task.csproj.CoreCompileInputs.cache
+C:\Users\Vigne\Documents\intern-task\bin\Debug\net7.0\intern-task.exe
+C:\Users\Vigne\Documents\intern-task\bin\Debug\net7.0\intern-task.deps.json
+C:\Users\Vigne\Documents\intern-task\bin\Debug\net7.0\intern-task.runtimeconfig.json
+C:\Users\Vigne\Documents\intern-task\bin\Debug\net7.0\intern-task.dll
+C:\Users\Vigne\Documents\intern-task\bin\Debug\net7.0\intern-task.pdb
+C:\Users\Vigne\Documents\intern-task\obj\Debug\net7.0\intern-task.dll
+C:\Users\Vigne\Documents\intern-task\obj\Debug\net7.0\refint\intern-task.dll
+C:\Users\Vigne\Documents\intern-task\obj\Debug\net7.0\intern-task.pdb
+C:\Users\Vigne\Documents\intern-task\obj\Debug\net7.0\intern-task.genruntimeconfig.cache
+C:\Users\Vigne\Documents\intern-task\obj\Debug\net7.0\ref\intern-task.dll
