@@ -18,16 +18,20 @@ class Dictionary
         {
             if(frequency.ContainsKey(character))
             {
+                //increamenting the frequency of the repeated character
                 frequency[character]++;
 
             }
             else
             {
+                //adding the first occurence of the character in the dictionary
                 frequency.Add(character,1);
 
             }
 
         }
+        //iterating over the elements in the dictionary
+        
         foreach(var keyValuePair in frequency)
         {
             Console.WriteLine($"The frequency of {keyValuePair.Key} is {keyValuePair.Value}");
