@@ -4,7 +4,7 @@ namespace intern_task.oops
 {
     class MarksPercentage
     {
-        /*
+        
         public static void Main(string[] args)
         {
 
@@ -21,7 +21,7 @@ namespace intern_task.oops
             Console.WriteLine($"The Percentage of Student named Sachin is {percentageOfSachin} %");
         
         }
-        */
+        
         
     }
 }
