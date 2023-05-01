@@ -1,0 +1,23 @@
+.wedding-album
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+}
+.image-container
+{
+    display: flex;
+    margin-top: 40px;
+    flex-direction: row;
+    justify-content: center;
+}
+img{
+    width: 400px;
+    
+}
+#black-white
+{
+    filter: grayscale(100%);
+}

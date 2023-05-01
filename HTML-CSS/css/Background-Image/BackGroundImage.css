@@ -1,0 +1,21 @@
+
+body
+{
+    background-image: url("/css/Background-Image/backdrop.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h2{
+    font-size: 18px;
+}
+p{
+    font-size: 20x;
+}
+h5{
+    font-size: 14px;
+    
+}
+h3{
+    font-size: 16px;
+}

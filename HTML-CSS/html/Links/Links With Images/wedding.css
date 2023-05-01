@@ -1,0 +1,20 @@
+.figure-container
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+figcaption
+{
+     font-size: 1rem;
+     margin-top: 0.5rem;
+
+}
+img
+{
+    width: 450px;
+    height: 350px;
+
+}
+
